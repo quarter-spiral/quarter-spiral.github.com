@@ -1,4 +1,6 @@
-quarter-spiral.github.com
+quarterspiral.com
 =========================
 
-home page
+github pages repository for quarterspiral.com
+
+Static html only for the time being.
